@@ -78,7 +78,7 @@ Frontend landing page demo.
 
 ## 🚀 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joypeace-johnson-626b9b373/)
+- 💼 [LinkedIn](www.linkedin.com/in/joy-peace-murigo-051503376)
 - 📫 Email: [murigojoypeace627@gmail.com](mailto:murigojoypeace627@gmail.com)
 
 _Thanks for stopping by! 👩‍💻_
