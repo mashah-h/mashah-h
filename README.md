@@ -45,10 +45,15 @@ I’m a web developer focused on creating reliable, user-friendly, and scalable 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Joy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mashah-h&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Joy's GitHub Stats" height="170px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashah-h&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="170px" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashah-h&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -58,6 +63,11 @@ I am currently **Open to**:
 - 📩 Freelance & Contract Work
 - 🤝 Web Development Collaborations
 - 🚀 Startup & Small Business Product Development
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mashah-h&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>
 
 **Contact me via [LinkedIn](https://www.linkedin.com/in/joy-peace-murigo)**
 📧 Email: joymurigo.dev@gmail.com
