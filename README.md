@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-peace-murigo)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-📍 **Nairobi, Kenya** | 🚀 **Building a full-service web agency**
+📍 **Nairobi, Kenya** | 
 </div>
 
 ---
