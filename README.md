@@ -1,84 +1,177 @@
-# 👋 Hi, I'm Joy Peace Murigo
+👋 Hi, I’m Joy Peace Murigo
 
-**Junior Software Engineer** | Passionate about building user-friendly web apps  
-🌍 Based in Kenya | 🧠 Always learning | 💻 Open to opportunities
+Web Developer | Digital Solutions Builder
+I build modern, high-performing web applications that focus on usability, clarity, and real business impact.
 
----
+🌍 Nairobi, Kenya
+💼 Self-Employed / Freelance Developer
+🚀 Building toward a full-service web agency
 
-## 🛠️ Tech Stack
+🧠 About Me
 
-- **Languages:** JavaScript (VanillaJS, ES6+), Python (basic)
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap
-- **Tools & Platforms:** Git, GitHub, Vercel, Figma
-- **Data Science Foundations:** Python for data analysis, NumPy, Pandas, basic data visualization
-- **Currently Learning:** Full Stack JavaScript (Node.js, Express, MongoDB), Advanced Data Science
+I’m a web developer focused on creating reliable, user-friendly, and scalable web solutions. My work blends clean frontend design with practical backend logic and real-world API integrations.
 
----
+🧭 What I Do
 
-## 📚 My Journey So Far
+Business & personal websites
 
-I'm a passionate self-taught developer currently studying Full Stack JavaScript.
+Frontend-heavy web applications
 
-I’m passionate about:
-- Web Development & Data Science
-- Frontend UI design with HTML, CSS, and Vanilla JavaScript
-- Data science basics using Python (data types, loops, NumPy, Pandas, dataframes)
+API-driven platforms
 
----
+Dashboards & admin interfaces
 
-## 💼 Featured Projects
+UI/UX-focused redesigns
 
-### ⚽ Manchester United Fan Site  
-A responsive React website showcasing Manchester United’s players, fixtures, news, and contact page. Built as a learning project to master React components, props, state, and routing.
+🛠️ Tech Stack
+Languages
 
-**Tech:** React.js, CSS, Google Fonts, Vercel  
-**Features:** Player cards, match cards, dynamic data, contact form with validation, and modern UI.
+JavaScript (ES6+)
 
----
+Python
 
-### 🌱 Verdant Village – Farm Logistics App  
-Helps farmers track and manage produce, deliveries, and market updates.
+Dart
 
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Responsive UI, input forms, filtering by category.
+Frontend
 
----
+React.js
 
-### 📅 Kiambu Connect – Community Event Platform  
-Mock app to showcase local Kiambu events.
+Tailwind CSS, Bootstrap
 
-**Tech:** Bootstrap, JavaScript  
-**Features:** Event cards, interactive modals.
+Responsive & mobile-first design
 
----
+Component-based architecture
 
-### 🛒 E-Commerce Mock UI  
-Frontend landing page demo.
+Backend & APIs
 
-**Tech:** HTML, CSS, JavaScript  
-**Focus:** Layout, animation, hover effects.
+Node.js, Express.js
 
----
+Django 
 
-## 📊 GitHub Stats
+RESTful API design
 
-![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashah-h&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashah-h&layout=compact&theme=radical)
+CRUD operations
 
----
+Databases
 
-## 🧰 Tools I Use
+SQLite
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+PostgreSQL
 
----
+MongoDB
 
-## 🚀 Let’s Connect
+Integrations & Data
 
-- 💼 [LinkedIn](www.linkedin.com/in/joy-peace-murigo-051503376)
-- 📫 Email: [murigojoypeace627@gmail.com](mailto:murigojoypeace627@gmail.com)
+Third-party API integrations
 
-_Thanks for stopping by! 👩‍💻_
+Fetch / Axios
+
+API error handling & loading states
+
+Tools & Deployment
+
+Git & GitHub
+
+Vercel
+
+Environment variables (.env)
+
+Figma
+
+Data & Analytics
+
+NumPy, Pandas
+
+Data cleaning & basic visualization
+
+💼 Featured Projects
+⚽ SportsXD — Football Streaming & Updates Platform
+
+A modern football platform focused on live scores, fixtures, highlights, and football updates using real-time data from third-party APIs.
+
+Key Features
+
+API-driven live scores & fixtures
+
+Dynamic football data rendering
+
+Clean, responsive UI
+
+Modular React component structure
+
+Performance-focused frontend design
+
+Tech Stack
+
+React.js
+
+REST APIs
+
+JavaScript (ES6+)
+
+CSS
+
+Vercel (deployment)
+
+🌱 Verdant Village — Farm Logistics Web App
+
+A practical web solution designed to help manage farm produce, deliveries, and basic logistics workflows.
+
+Highlights
+
+Structured forms & filtering
+
+Simple data handling
+
+Responsive design
+
+Tech: HTML, CSS, JavaScript
+
+📅 Kiambu Connect — Community Events Platform
+
+A community-focused mock application showcasing local events with interactive UI components.
+
+Highlights
+
+Event cards
+
+Interactive modals
+
+User-friendly layout
+
+Tech: Bootstrap, JavaScript
+
+🛒 E-Commerce UI Prototype
+
+A frontend-only prototype exploring conversion-focused layouts, animations, and interaction design.
+
+Focus
+
+UI/UX polish
+
+Hover effects & animations
+
+Responsive layouts
+
+Tech: HTML, CSS, JavaScript
+
+📊 GitHub Overview
+
+
+
+
+🤝 Open To
+
+Freelance & contract work
+
+Web development collaborations
+
+Startups & small businesses
+
+Long-term product development
+
+📬 Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/joy-peace-murigo
+
+📧 Email: joymurigo.dev@gmail.com
