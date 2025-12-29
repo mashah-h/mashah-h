@@ -1,177 +1,63 @@
-👋 Hi, I’m Joy Peace Murigo
+<div align="center">
 
-Web Developer | Digital Solutions Builder
-I build modern, high-performing web applications that focus on usability, clarity, and real business impact.
+# 👋 Hi, I’m Joy Peace Murigo
+### Web Developer | Digital Solutions Builder
+*Building modern, high-performing web applications that focus on usability and real business impact.*
 
-🌍 Nairobi, Kenya
-💼 Self-Employed / Freelance Developer
-🚀 Building toward a full-service web agency
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-peace-murigo)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-🧠 About Me
+📍 **Nairobi, Kenya** | 🚀 **Building a full-service web agency**
+</div>
 
+---
+
+### 🧠 About Me
 I’m a web developer focused on creating reliable, user-friendly, and scalable web solutions. My work blends clean frontend design with practical backend logic and real-world API integrations.
 
-🧭 What I Do
-
-Business & personal websites
-
-Frontend-heavy web applications
-
-API-driven platforms
-
-Dashboards & admin interfaces
-
-UI/UX-focused redesigns
-
-🛠️ Tech Stack
-Languages
-
-JavaScript (ES6+)
-
-Python
-
-Dart
-
-Frontend
-
-React.js
-
-Tailwind CSS, Bootstrap
-
-Responsive & mobile-first design
-
-Component-based architecture
-
-Backend & APIs
-
-Node.js, Express.js
-
-Django 
-
-RESTful API design
-
-CRUD operations
-
-Databases
-
-SQLite
-
-PostgreSQL
-
-MongoDB
-
-Integrations & Data
-
-Third-party API integrations
-
-Fetch / Axios
-
-API error handling & loading states
-
-Tools & Deployment
-
-Git & GitHub
-
-Vercel
-
-Environment variables (.env)
-
-Figma
-
-Data & Analytics
-
-NumPy, Pandas
-
-Data cleaning & basic visualization
-
-💼 Featured Projects
-⚽ SportsXD — Football Streaming & Updates Platform
-
-A modern football platform focused on live scores, fixtures, highlights, and football updates using real-time data from third-party APIs.
-
-Key Features
-
-API-driven live scores & fixtures
-
-Dynamic football data rendering
-
-Clean, responsive UI
-
-Modular React component structure
-
-Performance-focused frontend design
-
-Tech Stack
-
-React.js
-
-REST APIs
-
-JavaScript (ES6+)
-
-CSS
-
-Vercel (deployment)
-
-🌱 Verdant Village — Farm Logistics Web App
-
-A practical web solution designed to help manage farm produce, deliveries, and basic logistics workflows.
-
-Highlights
-
-Structured forms & filtering
-
-Simple data handling
-
-Responsive design
-
-Tech: HTML, CSS, JavaScript
-
-📅 Kiambu Connect — Community Events Platform
-
-A community-focused mock application showcasing local events with interactive UI components.
-
-Highlights
-
-Event cards
-
-Interactive modals
-
-User-friendly layout
-
-Tech: Bootstrap, JavaScript
-
-🛒 E-Commerce UI Prototype
-
-A frontend-only prototype exploring conversion-focused layouts, animations, and interaction design.
-
-Focus
-
-UI/UX polish
-
-Hover effects & animations
-
-Responsive layouts
-
-Tech: HTML, CSS, JavaScript
-
-📊 GitHub Overview
-
-
-
-
-🤝 Open To
-
-Freelance & contract work
-
-Web development collaborations
-
-Startups & small businesses
-
-Long-term product development
-
-📬 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/joy-peace-murigo
-
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404d59?style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+---
+
+### 💼 Featured Projects
+
+#### ⚽ [SportsXD — Football Streaming & Updates](https://your-link-here.com)
+*A modern football platform focused on live scores and fixtures using real-time API data.*
+- **Core:** React.js, REST APIs, Vercel.
+- **Key Feature:** Dynamic rendering of live match data with a performance-first approach.
+
+#### 🌱 [Verdant Village — Farm Logistics](https://your-link-here.com)
+*A practical web solution to manage farm produce and delivery workflows.*
+- **Core:** HTML, CSS, JavaScript.
+- **Key Feature:** Complex filtering and structured logistics forms.
+
+#### 📅 [Kiambu Connect — Community Events](https://your-link-here.com)
+*Showcasing local events with interactive UI components.*
+- **Core:** Bootstrap, JavaScript.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Joy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+I am currently **Open to**:
+- 📩 Freelance & Contract Work
+- 🤝 Web Development Collaborations
+- 🚀 Startup & Small Business Product Development
+
+**Contact me via [LinkedIn](https://www.linkedin.com/in/joy-peace-murigo)**
 📧 Email: joymurigo.dev@gmail.com
